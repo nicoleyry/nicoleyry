@@ -3,7 +3,7 @@
 
 *  :computer: A Frontend Developer at Supermicro
 *  :hammer_and_wrench: Currently working on completing challenges on [Frontend Mentor](https://www.frontendmentor.io/home)
-*  :book: I’m currently learning **React.js**
+*  :book: I’m currently learning **React.js** and **Three.js**
 *  :zap: Fun fact: I'm passionate about languages, including but not limited to programming languages :wink: 
 
 
@@ -69,6 +69,9 @@
 	</a>
 	<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+	</a>
+	<a href="https://threejs.org" target="_blank" rel="noreferrer">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" alt="threejs" width="40" height="40"/>
 	</a>
 </p>
 <br />
