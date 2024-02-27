@@ -78,5 +78,5 @@
 
 <p align="center">
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicoleyry&show_icons=true&theme=onedark&locale=en&layout=compact" alt="nicoleyry" />
-    <img width="54%" src="https://github-readme-stats.vercel.app/api?username=nicoleyry&show_icons=true&theme=onedark&locale=en" alt="nicoleyry" />
+<!--     <img width="54%" src="https://github-readme-stats.vercel.app/api?username=nicoleyry&show_icons=true&theme=onedark&locale=en" alt="nicoleyry" /> -->
 </p>
