@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/aPR6ThCbSdS1i2ODuzyolw/badge)](https://hackmd.io/aPR6ThCbSdS1i2ODuzyolw)
 <h1 align="center">Hi 👋, I'm Nicole</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
 
