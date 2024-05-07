@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Nicole</h1>
-<h3 align="center">A passionate frontend developer from Taiwan</h3>
+<h1 align="center">Hi 👋,<br>I'm Nicole</h1>
 
-*  :computer: A Frontend Developer at Supermicro
-*  :hammer_and_wrench: Currently working on completing challenges on [Frontend Mentor](https://www.frontendmentor.io/home)
-*  :book: I’m currently learning **React.js** and **Three.js**
-*  :zap: Fun fact: I'm passionate about languages, including but not limited to programming languages :wink: 
-
+<p align="center">:computer: A Frontend Developer from Taiwan :computer:</p>
+<p align="center">:book: I’m currently learning <strong>React.js</strong> and <strong>Three.js</strong> :book:</p>
+<p align="center">:hammer_and_wrench: Also working on completing challenges on <a href="https://codepen.io/nicoleyry" target="blank">Frontend Mentor</a> :hammer_and_wrench:</p>
+<p align="center">:zap: I'm passionate about languages, including but not limited to programming languages :wink::zap:</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -27,7 +25,7 @@
 </p>
 <br />
 
-<h3 align="center">Tools that i use or i been work before with</h3>
+<h3 align="center">Tools that I use or i been work before with</h3>
 <div align="center">
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 		<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -78,5 +76,4 @@
 
 <p align="center">
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicoleyry&show_icons=true&theme=onedark&locale=en&layout=compact" alt="nicoleyry" />
-<!--     <img width="54%" src="https://github-readme-stats.vercel.app/api?username=nicoleyry&show_icons=true&theme=onedark&locale=en" alt="nicoleyry" /> -->
 </p>
