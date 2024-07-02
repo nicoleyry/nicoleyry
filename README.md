@@ -1,3 +1,5 @@
+<!--- ![github-header-image](https://github.com/nicoleyry/nicoleyry/assets/40715205/c221045d-b906-4d40-b149-29e27dd1248a) --->
+
 <h1 align="center">⭐<br>Hi 👋,<br>I'm Nicole</h1>
 
 <p align="center">:computer: A Frontend Developer from Taiwan :computer:</p>
@@ -8,37 +10,37 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 	<a href="https://codepen.io/nicoleyry" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nicoleyry" height="30" width="40" />
+		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codeepen @nicoleyry" height="30" width="40" />
 	</a>
 	<a href="https://dev.to/nicoleyry" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nicoleyry" height="30" width="40" />
+		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to @nicoleyry" height="30" width="40" />
 	</a>
 	<a href="https://stackoverflow.com/users/10036448" target="blank">
-		<img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="10036448" width="40" height="30"/>
+		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverlow @nicoleyry" height="30" width="40" />
 	</a>
-    <a href="https://twitter.com/nicoleyry" target="blank">
-    	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nicoleyry" height="30" width="40" />
-    </a>
+	<a href="https://twitter.com/nicoleyry" target="blank">
+	    	<img align="center" src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X @nicoleyry" height="30" width="40" />
+    	</a>
 	<a href="https://linkedin.com/in/nicoleyry" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicoleyry" height="30" width="40" />
+		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn @nicoleyry" height="30" width="40" />
 	</a>
 </p>
 
 <h3 align="center">Tools I work with</h3>
 <div align="center">
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+	<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/figma.svg" alt="figma" width="40" height="40"/>
 	</a>
 	<a href="https://code.visualstudio.com/" target="blank">
 		<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
 	</a>
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Other/git.svg" alt="git" width="40" height="40"/>
 	</a>
 	<a href="https://github.com/" target="blank">
-		<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" width="40" height="40"/>
 	</a>
-    <a href="https://www.notion.so/" target="blank">
+	<a href="https://www.notion.so/" target="blank">
 		<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="notion" width="40" height="40"/>
 	</a>
 </div>
@@ -55,7 +57,7 @@
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 	</a>
 	<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/StaticSiteGenerators/nuxtjs.svg" alt="nuxtjs" width="40" height="40"/>
 	</a>
 	<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -74,4 +76,10 @@
 
 <p align="center">
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicoleyry&show_icons=true&theme=onedark&locale=en&layout=compact" alt="nicoleyry" />
+</p>
+<br />
+
+<p align="center">Wanna hear a joke? :clown_face:</p>
+<p align="center">
+	<img width="40%" src="https://readme-jokes.vercel.app/api?theme=ayu-mirage" alt="Jokes Card"/>
 </p>
