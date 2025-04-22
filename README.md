@@ -4,7 +4,7 @@
 
 <p align="center">:computer: A Frontend Developer from Taiwan :computer:</p>
 <p align="center">:book: I’m currently learning <strong>React.js</strong> and <strong>Three.js</strong> :book:</p>
-<p align="center">:hammer_and_wrench: Also working on completing challenges on <a href="https://codepen.io/nicoleyry" target="blank">Frontend Mentor</a> :hammer_and_wrench:</p>
+<p align="center">:hammer_and_wrench: Also working on completing challenges on <a href="https://www.frontendmentor.io/" target="blank">Frontend Mentor</a> :hammer_and_wrench:</p>
 <p align="center">:zap: I'm passionate about languages, including but not limited to programming languages :wink::zap:</p>
 
 <h3 align="center">Connect with me:</h3>
